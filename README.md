@@ -1,4 +1,4 @@
-Follow github Chemicalshot! thats my main account.
+<p align="center">${\textsf{\color{#823F78} Follow my main acc, Chemicalshot.}}$ 
 
 <p align="center">${\textsf{\color{#823F78} Can't say no to a friend, can I?}}$ 
 
